@@ -1,0 +1,3 @@
+acp-calendar==1.7.0
+djangorestframework==3.7.1
+pytz==2017.2
